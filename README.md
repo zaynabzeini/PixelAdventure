@@ -1,11 +1,13 @@
 # PixelAdventure
-Based on Coding In Flow's 2D Platform Game in Unity Tutorial 
+Itch.io Upload: https://zaynabzeini.itch.io/pixeladventure
 
-Pixel Adventure Assets imported from Unity Store
+Based on [Coding In Flow's 2D Platform Game in Unity Tutorial](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U) 
+
+[Pixel Adventure Assets](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360) imported from Unity Store
 
 Modified and enhanced by Zaynab Zeini to add and change more levels, screens, buttons, designs, scripts, and game objects
 
-Documentation with more details provided, with a link to the running game on itch.io
+[Documentation](https://github.com/zaynabzeini/PixelAdventure/blob/main/Documentation.pdf) with more details provided can be found within the repository  
 
 - Home Screen, About Screen, and End Screen with working buttons
 
